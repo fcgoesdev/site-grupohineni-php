@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PHP
+*.log
+.env
+.env.local
+vendor/
+
+# Temporary
+*.tmp
+.cache/
+
+# Email logs (optional)
+mail.log
