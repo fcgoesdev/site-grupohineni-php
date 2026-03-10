@@ -83,7 +83,7 @@
         <h2 class="text-4xl font-bold mb-12 text-center text-gray-900">Nosso Processo</h2>
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div class="text-center">
-                <div class="bg-gradient-pink-orange text-white rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4 text-2xl font-bold">1</div>
+                <div class="gradient-pink-orange text-white rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4 text-2xl font-bold">1</div>
                 <h3 class="text-xl font-bold text-gray-900 mb-3">Descoberta</h3>
                 <p class="text-gray-700">Entendemos seu negócio, objetivos e desafios através de consultoria detalhada.</p>
             </div>
