@@ -1,8 +1,12 @@
 <?php $pageTitle = "Hineni Cybersecurity"; ?>
 <?php include 'includes/header.php'; ?>
 
+<style>
+    .gradient-security { background: linear-gradient(135deg, #003D82 0%, #1A5F7A 100%); }
+</style>
+
 <!-- Hero Section -->
-<section class="gradient-blue-purple text-white py-16 px-4 sm:px-6 lg:px-8">
+<section class="gradient-security text-white py-16 px-4 sm:px-6 lg:px-8">
     <div class="max-w-7xl mx-auto text-center">
         <h1 class="text-4xl font-bold mb-4">Hineni Cybersecurity</h1>
         <p class="text-xl opacity-90">Proteção completa contra ameaças cibernéticas para seu negócio</p>
@@ -12,10 +16,10 @@
 <!-- Services Grid -->
 <section class="py-16 px-4 sm:px-6 lg:px-8">
     <div class="max-w-7xl mx-auto">
-        <h2 class="text-4xl font-bold mb-12 text-center text-gray-900">Serviços de Segurança Cibernética</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <h2 class="text-4xl font-bold mb-12 text-center text-gray-900">Serviços Completos de Segurança e Desenvolvimento</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div class="bg-gradient-to-br from-blue-50 to-purple-50 rounded-lg p-8 border-2 border-purple-200">
-                <div class="gradient-blue-purple text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
+                <div class="gradient-security text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m7 0a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                     </svg>
@@ -30,7 +34,7 @@
             </div>
 
             <div class="bg-gradient-to-br from-blue-50 to-purple-50 rounded-lg p-8 border-2 border-purple-200">
-                <div class="gradient-blue-purple text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
+                <div class="gradient-security text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
                     </svg>
@@ -45,7 +49,7 @@
             </div>
 
             <div class="bg-gradient-to-br from-blue-50 to-purple-50 rounded-lg p-8 border-2 border-purple-200">
-                <div class="gradient-blue-purple text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
+                <div class="gradient-security text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                     </svg>
@@ -59,8 +63,8 @@
                 </ul>
             </div>
 
-            <div class="bg-gradient-to-br from-blue-50 to-purple-50 rounded-lg p-8 border-2 border-purple-200">
-                <div class="gradient-blue-purple text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
+            <div class="bg-gradient-to-br from-blue-50 to-slate-50 rounded-lg p-8 border-2 border-blue-200">
+                <div class="gradient-security text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                     </svg>
@@ -71,6 +75,21 @@
                     <li>✓ Auditoria de segurança</li>
                     <li>✓ Plano de continuidade</li>
                     <li>✓ Treinamento de equipe</li>
+                </ul>
+            </div>
+
+            <div class="bg-gradient-to-br from-blue-50 to-slate-50 rounded-lg p-8 border-2 border-blue-200">
+                <div class="gradient-security text-white rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4m0 6v2a2 2 0 01-2 2h-2.5a1 1 0 00-.8.4l-1.9 2.533a1 1 0 01-1.6 0l-1.9-2.533a1 1 0 00-.8-.4H5a2 2 0 01-2-2v-6.5"></path>
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-3">Desenvolvimento Web Seguro</h3>
+                <p class="text-gray-700 mb-4">Criação de websites e aplicações web modernos com segurança em primeiro lugar, implementando as melhores práticas de proteção desde o desenvolvimento.</p>
+                <ul class="space-y-2 text-sm text-gray-700">
+                    <li>✓ Sites com segurança integrada</li>
+                    <li>✓ Aplicações web resistentes a ataques</li>
+                    <li>✓ Testes de segurança integrados</li>
                 </ul>
             </div>
         </div>
@@ -181,11 +200,11 @@
 </section>
 
 <!-- CTA Section -->
-<section class="gradient-blue-purple text-white py-16 px-4 sm:px-6 lg:px-8">
+<section class="gradient-security text-white py-16 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-4xl font-bold mb-6">Proteja Seu Negócio Hoje</h2>
-        <p class="text-xl mb-8 opacity-90">Não espere por um incidente de segurança. Converse com nossos especialistas em cybersecurity para uma avaliação gratuita.</p>
-        <a href="/contato.php" class="bg-white text-purple-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition inline-block">
+        <p class="text-xl mb-8 opacity-90">Não espere por um incidente de segurança. Converse com Fabio e nossos especialistas em cybersecurity para uma avaliação gratuita.</p>
+        <a href="/contato.php" class="bg-white text-blue-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition inline-block">
             Solicitar Avaliação de Segurança
         </a>
     </div>

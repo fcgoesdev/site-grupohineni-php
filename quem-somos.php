@@ -64,20 +64,24 @@
         <h2 class="text-4xl font-bold mb-12 text-center text-gray-900">Nosso Time</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div class="text-center">
-                <div class="bg-gradient-to-br from-purple-200 to-blue-200 rounded-lg p-16 mb-6 flex items-center justify-center h-64">
-                    <div class="text-gray-700 font-semibold">Ingrid</div>
+                <div class="bg-gradient-to-br from-purple-200 to-blue-200 rounded-lg mb-6 overflow-hidden h-64 flex items-center justify-center">
+                    <!-- Foto de Ingrid (substitua o src para sua foto) -->
+                    <img src="" alt="Ingrid" class="w-full h-full object-cover" style="display: none;">
+                    <div class="text-gray-700 font-semibold text-lg">Foto de Ingrid</div>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 mb-2">Ingrid</h3>
-                <p class="text-purple-600 font-semibold mb-3">Co-Fundadora & Diretora de Negócios</p>
-                <p class="text-gray-700">Especialista em estratégia digital e gestão de projetos. Lidera a visão comercial da Grupo Hineni com foco em resultados e satisfação do cliente.</p>
+                <p class="text-purple-600 font-semibold mb-3">Co-Fundadora & Especialista em Social Media</p>
+                <p class="text-gray-700">Especialista em gestão de redes sociais e estratégia digital. Gerencia as estratégias de social media da Grupo Hineni, impulsionando presença online e engajamento com clientes.</p>
             </div>
             <div class="text-center">
-                <div class="bg-gradient-to-br from-purple-200 to-blue-200 rounded-lg p-16 mb-6 flex items-center justify-center h-64">
-                    <div class="text-gray-700 font-semibold">Fabio</div>
+                <div class="bg-gradient-to-br from-purple-200 to-blue-200 rounded-lg mb-6 overflow-hidden h-64 flex items-center justify-center">
+                    <!-- Foto de Fabio (substitua o src para sua foto) -->
+                    <img src="" alt="Fabio" class="w-full h-full object-cover" style="display: none;">
+                    <div class="text-gray-700 font-semibold text-lg">Foto de Fabio</div>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 mb-2">Fabio</h3>
-                <p class="text-purple-600 font-semibold mb-3">Co-Fundador & Diretor de Tecnologia</p>
-                <p class="text-gray-700">Especialista em desenvolvimento fullstack e segurança cibernética. Responsável pela excelência técnica e inovação em todas as soluções.</p>
+                <p class="text-purple-600 font-semibold mb-3">Co-Fundador & Especialista em Cybersecurity</p>
+                <p class="text-gray-700">Especialista em desenvolvimento fullstack e segurança cibernética. Lidera a área de segurança digital da Grupo Hineni, garantindo proteção máxima contra ameaças.</p>
             </div>
         </div>
     </div>

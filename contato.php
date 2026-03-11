@@ -140,7 +140,7 @@
                     Quanto tempo leva para um projeto?
                     <span class="group-open:rotate-180 transition">▼</span>
                 </summary>
-                <p class="text-gray-700 mt-4">O prazo depende do tipo de projeto. Um website pode levar 4-8 semanas, enquanto testes de penetração são mais ágeis (2-4 semanas). Discutiremos cronograma específico durante a consultoria.</p>
+                <p class="text-gray-700 mt-4">O prazo depende do tipo de projeto. Um website pode levar 4-8 semanas, enquanto testes de segurança são mais rápidos (2-4 semanas). Discutiremos datas e prazos específicos durante a consultoria inicial.</p>
             </details>
 
             <details class="bg-white rounded-lg p-6 shadow-sm border border-gray-200 cursor-pointer group">
@@ -148,7 +148,7 @@
                     Vocês trabalham com empresas pequenas?
                     <span class="group-open:rotate-180 transition">▼</span>
                 </summary>
-                <p class="text-gray-700 mt-4">Sim! Trabalhamos com empresas de todos os tamanhos. Temos soluções escaláveis desde startups até grandes corporações. Cada projeto é adaptado ao orçamento e necessidades do cliente.</p>
+                <p class="text-gray-700 mt-4">Sim! Trabalhamos com empresas de todos os tamanhos. Temos soluções para empresas iniciantes, pequenas e grandes. Cada projeto é adaptado ao orçamento e necessidades específicas do cliente.</p>
             </details>
 
             <details class="bg-white rounded-lg p-6 shadow-sm border border-gray-200 cursor-pointer group">
@@ -164,7 +164,7 @@
                     Como é o processo de desenvolvimento?
                     <span class="group-open:rotate-180 transition">▼</span>
                 </summary>
-                <p class="text-gray-700 mt-4">Seguimos um processo estruturado: Discovery → Estratégia → Design → Desenvolvimento → Testes → Deploy → Suporte. Você fica envolvido em cada etapa com comunicação clara e entregáveis periódicos.</p>
+                <p class="text-gray-700 mt-4">Seguimos um processo estruturado: (1) Entendimento do seu negócio → (2) Estratégia personalizada → (3) Planejamento visual → (4) Desenvolvimento → (5) Testes completos → (6) Colocação em produção → (7) Suporte contínuo. Você fica envolvido em cada etapa com comunicação clara e resultados periódicos.</p>
             </details>
 
             <details class="bg-white rounded-lg p-6 shadow-sm border border-gray-200 cursor-pointer group">
@@ -172,7 +172,7 @@
                     Vocês assinam NDAs e contratos de confidencialidade?
                     <span class="group-open:rotate-180 transition">▼</span>
                 </summary>
-                <p class="text-gray-700 mt-4">Absolutamente! Trabalhamos com NDAs e contratos padrão para garantir a confidencialidade de seus dados e projetos. A segurança e privacidade são prioridades para nós.</p>
+                <p class="text-gray-700 mt-4">Sim! Assinamos contratos de confidencialidade (acordos que garantem sigilo) para proteger seus dados e informações do projeto. A segurança e privacidade das informações do nosso cliente são prioridades máximas para nós.</p>
             </details>
         </div>
     </div>
