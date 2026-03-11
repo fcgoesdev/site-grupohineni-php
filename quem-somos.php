@@ -66,7 +66,7 @@
             <div class="text-center">
                 <div class="bg-gradient-to-br from-purple-200 to-blue-200 rounded-lg mb-6 overflow-hidden h-64 flex items-center justify-center">
                     <!-- Foto de Ingrid (substitua o src para sua foto) -->
-                    <img src="" alt="Ingrid" class="w-full h-full object-cover" style="display: none;">
+                    <img src="assets/fotos/ingrid.jpeg" alt="Ingrid" class="w-full h-full object-cover" style="display: none;">
                     <div class="text-gray-700 font-semibold text-lg">Foto de Ingrid</div>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 mb-2">Ingrid</h3>
@@ -76,7 +76,7 @@
             <div class="text-center">
                 <div class="bg-gradient-to-br from-purple-200 to-blue-200 rounded-lg mb-6 overflow-hidden h-64 flex items-center justify-center">
                     <!-- Foto de Fabio (substitua o src para sua foto) -->
-                    <img src="" alt="Fabio" class="w-full h-full object-cover" style="display: none;">
+                    <img src="assets/fotos/fabio.jpeg" alt="Fabio" class="w-full h-full object-cover" style="display: none;">
                     <div class="text-gray-700 font-semibold text-lg">Foto de Fabio</div>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 mb-2">Fabio</h3>
